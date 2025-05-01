@@ -30,11 +30,6 @@ This project presents an interactive sales dashboard for a coffee shop, designed
 - **Detailed Sales Table**  
   Tabular view of product details, categories, and quantities for granular analysis.
 
-## 📁 Files Included
-
-- `![image](https://github.com/user-attachments/assets/72f92388-fd5d-467e-9601-574dc8c1ca5f)
-2.png` — The main dashboard image.
-- `README.md` — Project overview and guide.
 
 ## 🛠 Technologies Used
 
