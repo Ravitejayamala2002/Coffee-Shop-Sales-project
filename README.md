@@ -1,6 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard
 
-![Coffee Shop Sales Dashboard](./fd4f2578-4331-4e04-a35a-940df95691a2.png)
+![image](https://github.com/user-attachments/assets/0d9e10dc-a454-4f44-b6fc-38f9f3068471)
+
 
 ## 📊 Overview
 
